@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Hava_Durumu</string>
+
+    <string name="celcius">°C</string>
+    <string name="row_layout_daily_weather_day_name">Day Forecast</string>
+    <string name="row_layout_daily_weather_min_temp">Min (°C)</string>
+    <string name="row_layout_daily_weather_max_temp">Max (°C)</string>
+    <string name="row_layout_daily_weather_symbol">Weather</string>
+
 </resources>
